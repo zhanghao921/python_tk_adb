@@ -33,4 +33,4 @@
 ![Alt text](https://github.com/liwanlei/python_tk_adb/blob/master/img/%E4%B8%8D%E4%BD%BF%E7%94%A8ui%E7%95%8C%E9%9D%A2%EF%BC%8C%E4%B8%8D%E7%94%A8%E7%BA%BF%E7%A8%8B%E6%B5%8B%E8%AF%95%E6%97%A5%E5%BF%97.png)
 
 
-启动adb_tk.py    (还需要先启动运行测试app)
+操作执行文件：启动adb_tk.py    (还需要先启动运行测试app)
